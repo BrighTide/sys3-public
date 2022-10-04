@@ -1,0 +1,12 @@
+{
+   "editor.wordWrap": "off",
+   "editor.fontFamily": "Consolas, 'Courier New', monospace, Segoe UI Emoji",
+   "editor.minimap.enabled": false,
+   "editor.folding": true,
+   "[markdown]": {
+      "editor.lineNumbers": "off",
+      "editor.folding": true,
+      "editor.foldingStrategy": "indentation",
+      "editor.wordWrap": "off"
+   }
+}
