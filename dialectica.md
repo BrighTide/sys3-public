@@ -18,7 +18,7 @@ Logo: two circles reaching out to one another within a larger one
 
 ## 💠 Seems Important
    ⚓ REBOOT ANCHORS:   Having clear and easy things to "reboot" from when conversation gets derailed
-      - "Reboot from finding coherence"
+      - "Reboot from finding coherence"b
       - "Reboot from the foil / thesis"
 
    🤝 SHARED PROJECT:   Wants to feel like building something together / a shared project

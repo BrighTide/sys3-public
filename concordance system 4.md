@@ -1,35 +1,39 @@
-Meta
-   - A set of notes on technical and social systems for achieving "concord" (group unity), a necessary condition for "coherence" (being both united and aligned)
-   - Related: [[dimensions of coherence]] (thoughts on the phenomenon of coherence)
-   - Related: [[dialectica]] (thoughts on a tool for 1-1 dialectic disagreement)
-   - Related: [[crowd os]] (thoughts on concord in crowds)
-   - Related: [[ingota]] (thoughts on knowledge/argument mapping tools)
-   - Related: [[transmission]] (thoughts on tools for sharing gears level models of the world)
-
 ## 💈
+   "humanity is an infinitely strong infant, with exponentially growing power to imperil itself, but not yet the ability to think or act coherently in response. This is the true threat - we're in existential danger because our power at scale is growing so much faster than our agency at scale."
+
+   "Agency at scale"
+
+   "The Taylor impulse, could we please just... guys, please"
+
    "I have a growing suspicion that tools and contexts which cultivate broad consensus on what's real and important are going to be vital to us surviving as a species"
 
    "We are surrounded by a a vast confusion, a darkling plain where ignorant armies clash by night"
    
+   "maybe we could dream a shared dream once again..."
+   
    "healing the epistemic commons"
 
-   "System 3 / pkm tooling enhances personal coherence.
-   System 4 is a multi-player sys3 that enhances collective coherence (agreement on what's real, important, what what is to be done).
-   It's a developmental prosthetic for the complexity of the times in which we live."
+   "System 3 enhances personal coherence.
+   System 4 is a multi-player sys3 that enhances collective coherence, generating agreement on what's real, important, what what is to be done.
+   It's a developmental prosthetic for the complex times in which we live."
 
-   "I think you don't want to build a tool, so much as a process, that connects information technology with institutions and populations..."
+   "I think you don't want to build a tool, so much as a process, that connects information technology with institutions and populations"
 
    "What *context* (spiritual, technical, emotional, social) could better hold our efforts to make *shared* *sense* (meaning, truth, value) of our situation?"
 
    "The foundation of a democracy is its communicative culture. And a communication culture is shaped by the technologies that underlie it"
 
-   "We found achieving collective action is essentially a process of dissolving defective clusters, which is fundamentally limited by network topology at the cluster perimeters. Deliberately and carefully increasing connectivity between polarised clusters is a powerful mechanism for promoting cooperation. Replacing the mechanisms that generate and maintain polarisation with others that instead promote constructive engagement between disagreeing groups could be a powerful promoter of large-scale collective action."
+   "This is true even if the War on Terror itself has an arbitrary cost in people killed / money spent / freedoms lost. The FDA mandate is set the same way - we’re open to paying limitless costs, as long as it lets us avoid a very specific kind of scandal which the media will turn into 24-7 humiliation of whoever let it happen. If I were a politician operating under these constraints, I’m not sure I could do any better."
+
+   "Achieving collective action is essentially a process of dissolving defective clusters, which is fundamentally limited by network topology at the cluster perimeters. Deliberately and carefully increasing connectivity between polarised clusters is a powerful mechanism for promoting cooperation. Replacing the mechanisms that generate and maintain polarisation with others that instead promote constructive engagement between disagreeing groups could be a powerful promoter of large-scale collective action."
+
+   "Everyone from statisticians to Brexiteers knows that they are right. The only remaining problem is how to convince others. Go on Facebook and you will find a million people with a million different opinions, each confident in her own judgment, each zealously devoted to informing everyone else."
 
    As the old saying goes, "First they ignore you, then they laugh at you, then they fight you, then they fight you half-heartedly, then they’re neutral, then they then they grudgingly say you might have a point even though you’re annoying, then they say on balance you’re mostly right although you ignore some of the most important facets of the issue, then you win."
 
    "Given all of this, I reject the argument that Purely Logical Debate has been tried and found wanting. Like GK Chesterton, I think it has been found difficult and left untried."
 
-   "Scaling the value of friendly dialectic among two goodish faith opponents"
+   "Scaling the value of friendly dialectic among two good faith opponents"
 
    "What would the mass media equivalent of shifting from Twitter spats to serious debate, from transmission mindset to collaborative truth-seeking mindset be?"
 
@@ -41,9 +45,9 @@ Meta
 
    "Trading off ability to grip the world with clarity of vision and unity of purpose"
 
-   "Concordance is the ability of a group to find coherence with itself.
-   A System 4 is any system that enhances the ability of a group to do this.
-   I am considering starting a company to build system 4s"
+"Concordance is the ability of a group to find coherence with itself.
+A System 4 is any system that enhances the ability of a group to do this.
+I am considering starting a company to build system 4s"
 
 ## 📜 Why?
    ## 🦋 Why work on this?
@@ -55,18 +59,18 @@ Meta
       - Conclusion:           Increasing coherence-ability is the most important problem i can be working on
 
    ## 📍 Why not work on this?
-      - TAI: once tai is in play then whether humans can cohere between themselves will matter little
-         - though inadequate coherence may play a critical role in us failing to prevent x-risks including utai
+      - TAI: once tai is in play then whether humans can cohere between themselves may matter little
+         - inadequate coherence may play a critical role in us failing to prevent x-risks including utai
 
          - maybe insight into the nature of adversarial coherence could help?
             - this feels like a justification
                - your counter counters too much
-                  - never the less there's something there...
+                  - never the less...
 
-      - Rightness -> Concord: Focusing on rightness will lead to concord anyway
+      - Rightness -> Concord: Focusing on rightness will lead to concord
          - [[dimensions of coherence#questions]]
       
-      - Rightness > Concord: Rightness is more important than concord regardless
+      - Rightness > Concord: Rightness is more important than concord
          - "Who cares who agrees with you, *does reality agree* is the question you should be asking"
 
    ## 🔮 The Dream
@@ -77,10 +81,12 @@ Meta
 
 ## 💠 Ideas that seem important
    ## 🔥 Discord & Wrongness Intuitions
-      🧨 DISCORD                       - "Our ability to resolve *disagreement* on what is real and important is inadequate"
-         - "An increasing inability to cohere in the same epistemic and normative reality as one another"
+      "Don't focus on the solution, focus on the problem, an inability to do *complex communication*"
+
+      🧨 DISCORD                       - "Our ability to resolve disagreement on what is real and important is inadequate"
+         - "An increasing inability to cohere in the same epistemic and normative reality"
          - "Civilization is to groups what intelligence is to individuals. Civilization is a means of combining the intelligence of many to achieve ongoing group adaptation. Civilisation, like intelligence, may serve well, serve adequately, or fail to serve its adaptive function. When civilization fails to serve, it must disintegrate unless it is acted upon by unifying force."
-      🔎 WRONGNESS                     - "Our ability to discern the *correct answers* to what is real and important is inadequate"
+      🔎 WRONGNESS                     - "Our ability to discern the correct answers to what is real and important is inadequate"
          - "The world is increasingly beyond our ability to make sense of"
          - "Sensemaking is the ability to generate an understanding of the world around us so that we may decide how to respond effectively to it. When this breaks down within the individual, it creates an ineffective human at best and a dangerous one at worst. At the collective level, a loss of sensemaking erodes shared cultural and value structures. It renders us incapable of generating the collective wisdom necessary to solve complex the societal problems that produce a state of existential risk. When that happens, the centre cannot hold."
       
@@ -95,7 +101,7 @@ Meta
             - But we're too scared to do that, if we surrender control to another that they'll go kill millions of Jews
             - This is the key bottleneck. Aligning *groups* with what's good and true (vector field diagram)
       
-      💥 INADEQUATE WORKING MEMORY  - "When people disagree their working memory gets shorted and they crash, which can makes coherence intractable"
+      💥 INADEQUATE WORKING MEMORY  - "When people disagree their working memory gets shorted and they crash, which makes it hard to cohere"
       ⌛ INADEQUATE TIME            - "It's rare that members of a group have undistracted time to sit with the particulars of a disagreement before or after"
             - They either need to respond immediately, or when they do have time it's not front of mind
             - You and Wade surfacing a disagreement, being able to note it down, go away, process it, and then come back
@@ -107,9 +113,12 @@ Meta
          - "Getting to the root of the disagreement"
 
       👁 EXPERIENCE                 - "People underestimate perhaps, the difference experience makes in latent intuitions about reality."
+         - "Have you ever been exposed to the the variety of competence in decision makers / have you ever been at a start up"
+         - "Have you ever been the victim of gendered violence?"
+         - "Have you ever been poor surrounded by extravagance?"
 
       💢 DEFAULT FOCUS DISAGREE     - "By default, if a group is in disagreement the focus will be immediately drawn to what is disagreed on, even if what is agreed on is unclear"
-      🙊 FORGET TO SAY ITS WRONG    -  Sometimes I know why they're confused, this thing I'm staying doesn't actually bottom out i'm still working on that, but it's hard to get around to saying that for some reason
+      🙊 FORGET TO SAY ITS WRONG    -  Sometimes I know why they're confused, this thing doesn't actually bottom out on the left side i'm still working on that, but it's hard to get around to saying that for some reason
          - there's this thing that happens, when someone is questioning
          - and in the back of my mind, i'm like "i know why they're confused, this thing doesn't actually bottom out on the left side i'm still working on that"
          - and it's not that you're hiding it it's that... idk you just kind of, forget? to say it? or there isn't time maybe?
@@ -130,7 +139,11 @@ Meta
       💣 DERAILMENT                 - "When attempting complex communication, the process is often derailed, focusing long enough to resolve it is difficult especially when bad faith or fear is in play"
          - Not just "what does this mean" but "Why did they say that?"
          - Psycological safty, not getting derailed by protecting image
-      🚂 SWERVE                     - "when attempting to communicate, the train you're trying to send in can swerve onto different attractors/ track if they are not addressed
+      🚂 SWERVE                     - "when attempting to communicate, the train you're trying to send in can swerve onto a different track if it's bot pull to it
+         that experience trying to send a train straight down into kathryn, and get an echo back of either "i understand on an emotional level what you're telling me" or "i don't have the experiences to understand".
+   
+         wanting to communicate to hols and david "if you want a separate place or having higher standards than us is too uncomfortable that's fine, but"
+   
          that zvi(?) post, on explaining what you are saying, and what you're *not* saying
 
       *bad incentives*
@@ -146,12 +159,15 @@ Meta
 
          - Then there's no feedback / sign you've been heard and engaged with / that you moved the needle
 
-      📢 EXPLOSIVE ANTI-THESIS      - Any tool or system designed to facilitate discourse will have to content with the explosive anti-thesis machine that is social justice / post modernism
+         - [[hold us tight]]
+         - [[social consilience through groking the sacred]]
+
+      📢 EXPLOSIVE ANTI-THESIS      - Any tool or system designed to facilitate discourse will have to content with the explosive anti-thesis machine that is the internet
 
       - incentives to repeat and intensify
       - syncronous conversation is expensive and slow
       - lack of structure
-      - perverse inventices undercut quality
+      - perverse incentives undercut quality
 
       ❓ RIGHTNESS APATHY           - "People don't see cohering with objective reality (epistemic and normative) as the ultimate goal"
       ✊ WRONG IS POWERFUL          - "If you have the power to control how reality is perceived by others, then you control them"
@@ -174,7 +190,8 @@ Meta
          - Taiwan seems to be getting a lot of milage out of it
       🛠 POSSIBLE                   - "Improving ability to reach concordance is possible, and has precedents"
          🏈 SCRUM                      - "Scrum is a social process (supported by technical tools and processes) that helps software teams be both right and concordant"
-         🏰 vTAIWAN
+            - There are rituals 
+         🏰 TAIWAN
          🤝 NVC
       🔱 SYSTEM 4                   - "System 4 is about building a process that helps a group find maximum trades off in rightness, concordance, and ability to act"
 
@@ -204,13 +221,13 @@ Meta
       ♟ TURN BASED                 - In some ways, the optimal dialectic feels a bit like chess. Making slow and considered moves, "pushing changes" to the shared graph. Slowly building up shared context with someone
       🎤 RECORDED                   - Recording the process over which the context is built feels important, how they got there. (timelinize and or record)
       
-      🤝 FOREGROUND AGREEMENT       - "Many intense arguments can be diffused by first being specific about what we agree upon / getting it squared away."
+      🤝 FOREGROUND AGREEMENT       - "Many intense arguments can be diffused by first being specific about what we agree upon / getting it locked away."
       🔥 DISAGREEMENT IS MOTIVATING - "Humans find resolving disagreement to be quite energizing / motivating"
-      👬 DIALECTIC SEEMS IMPORTANT  - There's something about two people collaborating to build synthesis. Often you don't know where to start but you do have a reaction to what someone said which builds out the web 
+      👬 DIALECTIC SEEMS IMPORTANT  - There's something about two people collaborating to build synthesis. Often you don't know where to start but you do have a reaction to what someone said. 
          - Potentially also then acting as avatars for a wider array of stances
       🌡 MATTERS OF DEGREES         - Being able to express degrees of agreement and disagreement is important. "I have sympathy for this" VS "Kind of" VS "I have no sympathy for this"
 
-      🎂 EPISTEMIC + NORMATIVE      - "It seems important to have a tool that interleaves but keeps seperate is and ought claims"
+      🎂 EPISTEMIC + NORMATIVE      - "It seems important to have a tool that interleaves is and ought claims"
       📝 INCREASE WORKING MEMORY    - "Working memory is a key bottle neck. Whiteboards are a miracle because they increase working memory"
          - This is why whiteboards, todo lists and wikis are so useful
          - Not just size and speed of working memory but also being able to reload next session
@@ -224,7 +241,7 @@ Meta
          - being able to use a collection of podcast snippets, tweets, and LW articles can kind of triangulate what you're trying to communicate
          - Thesis: Often hard disagreements come down to a clash in really complex hyper thoughts that give conflicting intuitions
 
-      📂 CANONICAL HANDLES          - "There's something very helpful about having a shared and evolving bespoke canon with which to refer to complex nascent concepts and issues"
+      📂 CANONICAL HANDLES          - "There's something very helpful about having a neutral canon with which to refer to concepts and issues"
       ➗ FACTORING                  - "Being able to factor stance space and see the agreement breakdown by cohort seems *really important*"
          - ![](/assets/2023-01-18-09-06-18.png)
          - factoring into epistemic, normative, and causal
@@ -232,21 +249,23 @@ Meta
          - influence, truth, importance, agreement
 
       👔 REPRESENTATION             - "The phenomenon of choosing someone who represents you to argue on your behalf feels important, like an avatar for your way of being"
-         - people find themselves channelling shards of the zeitgeist without the tools to do that responsibly
+         - Liquid democracy?
    
       *ingota*
       🔱 Ingota                     - "A system that lets you *demarcate*, *handlify*, *collapse*, *annotate*, and *relate* any thought can be really useful in a complex dialectic"
 
       *resolutions*
       🚀 FOREGROUND RESOLUTION      - "Engaging with disagreement can be immensely valuable *if* there's a path to a resolution"
+         - I have this same feeling in kialo, S.L, and swarm check
+         - it's maybe not enough to just map the argument, the tool / argument itself needs to be able to iterate towards a state of synthisis / conclusion
       🤝 SUPPORT AGREEMENT          - "If it turns out two people agree after all, well great"
       ⚖ SUPPORT CHANGE MIND        - "Foreground, support, and note when someone updates / changes their mind on something / comes to some new understanding / records the flip"
       📈 SUPPORT CBD                - "If two people can agree on a cost benefit distribution, all the better"
       🎌 SUPPORT CRUXES             - "A focus on finding double cruxes can turn intractable disagreements into productive discussions"
          - "What would make me change my mind"
-         - nathan young: **pushing people towards finding cruxes that lead to forecasts feels really important**
+         - **pushing people towards finding cruxes that lead to forecasts feels really important**
 
-      💰 SUPPORTING PREDICTION      - "Prediction pulls people down simulacra levels, it lets them communicate authenticity and promotes self dissent"
+      💰 SUPPORTING PREDICTION      - "Prediction pulls people down simulacra levels, it lets them communicate authenticity and promotes internal dissent"
          - Can extend beyond just betting in the dialectic, but for the crowd also"
       🧮 SUPPORTING POLLING         - "Being able to know what cohorts of people think rather than having to guess is really helpful"
          "Polling my boy, it's all polling, always has been"
@@ -260,7 +279,7 @@ Meta
       💌 SUPPORTING VOTING          - "pre-committing to a course of action based on a poll is really helpful, voting = crux + polling"
 
       🧷 RELATE                     - "Communicating information about the ideas through the card relationship"
-         - david manh: "It is important to note that the model is not a causal model per se. An edge from one node to another does not necessarily imply that the first causes the second, but rather that there is some relationship between them such that information about the first informs the probability estimate for the second. Some edges do represent causal relationships, but only insofar as that relationship is important for informing probability estimates."
+         - "It is important to note that the model is not a causal model per se. An edge from one node to another does not necessarily imply that the first causes the second, but rather that there is some relationship between them such that information about the first informs the probability estimate for the second. Some edges do represent causal relationships, but only insofar as that relationship is important for informing probability estimates."
 
       🔀 ANNOTATE VS RELATE          - For polling and prediction, can either be a seperate card, or an annotation
          - *expresses a thought*: "yes, i'll sign on to that I think it represents me"
@@ -268,12 +287,12 @@ Meta
       *things that really seem to help to be able to express easily alongside thoughts*
       🔥 FEELINGS                   - "Expressing 'this idea is quite dry, but this one has a lot of feeling around it, i feel hurt' or something"? being able to express umbridge
       ✝ SACREDNESS                 - "Expressing 'please, this is sacred to me. i don't expect you to agree with what i want to do, but please respect this'"?
-         - Also recalling what is held sacred in common?
+         - Also recalling what is held sacred in common
       🔮 SEEMINGS                   - "Expressing 'here is my model of what's going on for you / what you'd say about this'"
          - "Are you worried about X?"
          - "Here's my model of what you care about / why you'd not like what I have to say"
    
-      😮 REACTION                   - "Nuanced means of expressing reaction to an idea"
+      😮 REACTION                   - "Nuanced means for expressing reaction to an idea"
                                  - this seems factually incorrect
                                  - this wants sharpening as to whether i can agree
                                  -  can't say what i don't like but gives be bad vibes
@@ -324,6 +343,8 @@ Meta
 
             - Does it make sense for people to spend the same currency agreeing with normative claims and betting on epistemic ones?
             - "a crypto currency is valuable to the extent it's design legibly entangles it with things that are valuable"
+
+      SWARM - Rewarding the crowd for helping (finding coherence, agreeing disagreeing, taking and making bets, linking to other cards in the canon?)
 
       *discord can beget rightness*
       ⚔ FOREGROUND DISCORD         - "Finding people who disagree and having them work through that disagreement seems to be a robust method of bring more right"
@@ -400,14 +421,74 @@ Meta
    - [[Deliberatorium]]
 
 ## 🛠 Tools to investigate
-   - Introduction to the Guide to Digital Participation Platforms — People Powered
+   - https://www.kialo.com/
+      - https://www.kialo.com/a-focused-marketing-campaign-to-bring-awareness-to-the-marketplace-release--sponsored-social-media-posts-with-links-back-11994.56?path=11994.0~11994.56
+      - ![](/assets/2023-02-06-09-36-51.png)
 
-   - this is fascinating and seems important: https://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution
-      - the phenomenon of wikipidea seems important, as an example of a group of people coordinating to come to an understanding of truth
-   - that democracy platform list thing 
+      - same personal desire for handles, and difficulty keeping track of where i am in the discussion
+      - interesting that it uses the same liniarisation as society library, no webs
+
+      - it's confusing that pros under a con are supportive of the con side
+
+      - there wants to be some kind of quantification
+      - "drugs cause harm" how much harm??
+
+      - wants concept handles
+      - wants to be able to resolve / roll up
+      - the annotation is unclear
+      - wants to cash out in prediction/crux/mind change
+      - "Since the Kialo scores do not roll up they can not be used to assess the child claims without reading each one so there is less efficiency in having a score. In this project you can use the scores to cut down on the amount of reading necessary to understand where your understanding differs from the author."
+
+      - the nesting and chunking is great
    
-   - society library
-      Things I find interesting about what they're doing:
+   - https://www.swarmcheck.ai/home 
+      - ![](/assets/2023-02-06-08-53-16.png) ![](/assets/2023-02-06-08-54-01.png) ![](/assets/2023-02-06-08-54-10.png) ![](/assets/2023-02-06-08-54-19.png) ![](/assets/2023-02-06-08-54-29.png) ![](/assets/2023-02-06-08-55-00.png)
+   
+   - https://pol.is/9merhjrjk5   
+      - ![](/assets/2023-02-06-10-00-39.png)
+      - ![](/assets/2023-02-06-10-01-00.png)
+      - one thought here, is an effort to make the stance / idea space legible by combining clusters of thoughts into like
+      - "ok, wel here's a shit tonne of stances / ideas in this area, but here's the clusters that come together to form a group"
+
+      - https://pol.is/9merhjrjk5
+      - https://forum.effectivealtruism.org/posts/zyumoSxsBM9CrWqAH/i-feel-anxious-that-there-is-all-this-money-around-let-s?commentId=yxtDgbQTDdJGasPpf
+      - interpreting is weird "This is interesting but I have no idea how to interpret it."
+      - https://github.com/compdemocracy/polis/discussions/1368
+      - "I agree [it's quite good] though it's got quite a high friction at the moment to understand the results.
+
+   - https://www.mindmup.com/
+
+   - Society Library https://papers.societylibrary.org/papers/diablo_canyon/map
+      - ![](/assets/2023-02-06-09-08-52.png)
+      ![](/assets/2023-02-06-09-10-47.png)
+
+      - wants like "claim:"
+
+      - the introduction being on the same level as the claims are weird
+
+      - wants handles "decommisioned immediately", "decomissioned as scheduled", "extended", "extended with upgrades"
+
+      - wants breadcrumb context
+         - when looking at a node 5 layers down I want like
+         - "decomissioned as scheduled" > economic > "redundant & non-competative"
+
+      - I like the references, would be nice if they could be commented on
+
+      - I want to be able to situate myself in the argument
+
+      - I want the sense that points roll up into a conclusion, that once I've investigated the sub points I'm like yeah, this makes sense
+
+      - "how many other people have investigated these sub points and been like "yeah, these do roll up"
+
+      - it needs something to *ground* the conversation like
+         - "okay, well, if it stayed in operation what would it's profit and loss be" or something
+
+      - 1. being able to roll things up in a satisfactory way
+      - 2. grounding the discussion in prediction, agreements, and cruxes
+
+      - "a topic is an elephant that's difficult to wrap the mind around, what goes into eatting it"
+      - what goes into metabolising a complex topic
+       Things I find interesting about what they're doing:
          - They preserve the y-axis information ordering like prose rather than use a free-form web, but can still express "expand collapse" information using the x-axis
 
          - They have a "tree of nodes -> prose on a page" mapping tool, but the page is enhanced so you can expand / collapse nodes and follow links within it @⁨Adam⁩ 
@@ -422,43 +503,24 @@ Meta
       1. If it does manage to gain a measure of "canonical-ness" then if it referenced a predictions as a part of it's web it could help focus the attention on the market on a signal prediction
       2. Rather than a discrete policy issue, they could make big predictions the root node in their graphs
 
-   - those platforms from glimpses of utopia
+   - Introduction to the Guide to Digital Participation Platforms — People Powered
 
+   - this is fascinating and seems important: https://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution
+      - the phenomenon of wikipidea seems important, as an example of a group of people coordinating to come to an understanding of truth
+   - that democracy platform list thing 
+   - those ones from glimpses of utopia
    - that tool like pintrest that had the thing ellie sent
-
    - https://github.com/Hylozoic/hylo-node
    - https://www.norsys.com/
    - https://www.ideaflow.io
    - https://debatehub.net/
    - https://gethivewise.com/
    - colony.io
-   - https://www.kialo.com/
-      - wants concept handles
-      - wants to be able to resolve / roll up
-      - the annotation is unclear
-      - wants to cash out in prediction/crux/mind change
-      - "Since the Kialo scores do not roll up they can not be used to assess the child claims without reading each one so there is less efficiency in having a score. In this project you can use the scores to cut down on the amount of reading necessary to understand where your understanding differs from the author."
-
-      - the nesting and chunking is great
-
    - https://subconscious.substack.com/p/noosphere-a-protocol-for-thought
       - https://github.com/orgs/subconsciousnetwork/projects/1/views/8
-
    - https://lumina.com/products/
    - https://litemap.net/map.php?id=32bbb51f-2128-4c08-b2f8-2f3784e74ee5
-
    - all the people involved in https://canonicaldebatelab.com/
-
-   isatero reference app
-   logseq
-
-   - https://www.swarmcheck.ai/home
-   - pol.is
-      - https://pol.is/9merhjrjk5
-      - https://forum.effectivealtruism.org/posts/zyumoSxsBM9CrWqAH/i-feel-anxious-that-there-is-all-this-money-around-let-s?commentId=yxtDgbQTDdJGasPpf
-      - interpreting is weird "This is interesting but I have no idea how to interpret it."
-      - https://github.com/compdemocracy/polis/discussions/1368
-      - "I agree [it's quite good] though it's got quite a high friction at the moment to understand the results.
    - allsides.com
 	- argumentmaps.org
    - https://www.mindmup.com/
@@ -466,7 +528,7 @@ Meta
    - https://reasonpedia.com/
    - https://conversence.com/
    - https://www.whysaurus.com/
-   - https://www.whysaurus.com/y/guns?expanded=Although_many_in_the_media_talk_a_big_game_when_it_comes_to_ending_US_gun_violence_the_truth_is_that_the_media_also_bears_significant_res
+      - https://www.whysaurus.com/y/guns?expanded=Although_many_in_the_media_talk_a_big_game_when_it_comes_to_ending_US_gun_violence_the_truth_is_that_the_media_also_bears_significant_res
 
 ## 🚀 Product Ideas 
    Let's say that there's an amount of collective sense making happening *somewhere out there*. Your options:
@@ -656,7 +718,6 @@ Meta
       - Deliberatorium - https://www.youtube.com/watch?v=k2w2WBCn7ug / https://deliberatorium.org/homepage/index.html
       - Make the Deliberatorium
 
-
    - Coleman@21stTalks
       - "I study behavioral science, and psychology at Cornell. "
       - "At Cornell, I have been brainstorming some work in with a knowledge system called a Zettlestracken using software that visually plots / generates connections between ideas/notes. "
@@ -720,6 +781,7 @@ Meta
       - Sam from OG crew (crypto?)
 
 ## 📜 Scratch
+
    14-01-23 08.31: There's a similar intuition with whentho, like the intractable feeling of 5 people across timezones finding coherence around a time
 
    14-01-23 08.31: The seeming intractability of two people across o tologies and ideologies finding agreement / a path forward. Where the timeslot equivalent is finding a course of action
@@ -751,3 +813,12 @@ Meta
 
    15-01-23 19.10: Thesis: the speed at which a dialectic resolves can be greatly increased by methodological changes
 
+   In a good demo­cracy the more complex answers to life’s problems can emerge, answers that are more inclusive to a multiplicity of interests and perspectives. In a poor demo­cracy, the lowest co­mmon denominator sets the limit.
+
+   "that intuition, if you want to someone to challenge deeply held ideals they need to be supported in this, and their "opponent" needs to feel humble nad truth seeking
+
+   software that allows for both the back and forward and the branching nature of dialog
+
+   this when where I want to break the things they say into seperate thoughts, and then address them "hmmm, okay interesting so that brings up two thoughts"
+
+   https://yesnodebate.org/
